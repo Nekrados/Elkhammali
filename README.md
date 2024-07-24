@@ -2,9 +2,7 @@
 <a href="https://www.linkedin.com/in/marouane-elkhammali/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a cybersecurity specialist with a background in law enforcement, where I developed a keen sense of security, vigilance, and risk evaluation. Currently enhancing my skills through advanced training. I'm eager to apply my unique perspective and expertise to enhance organizational cybersecurity and tackle complex challenges.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
