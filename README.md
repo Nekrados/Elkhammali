@@ -59,6 +59,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <a href="https://www.credly.com/badges/a1ae75a1-8592-431b-921f-aef9ccbe7e6c/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/-ISC2%20CC-006400?&style=for-the-badge&logoColor=white" alt="ISC2 CC">
   </a>
+  <a href="https://www.credly.com/badges/c6e41586-ca4b-4536-abdd-21a7169c065b" target="_blank">
+    <img src="https://img.shields.io/badge/-CSIS-ff0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CSIS">
+  </a>
+  <a href="https://www.credly.com/badges/5e251125-706f-45ef-afdf-406089afdd6f" target="_blank">
+    <img src="https://img.shields.io/badge/-CLNP-ff0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CLNP">
+  </a>
 </div>
 
 
