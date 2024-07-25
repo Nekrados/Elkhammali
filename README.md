@@ -2,12 +2,10 @@
 <a href="https://www.linkedin.com/in/marouane-elkhammali/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a cybersecurity specialist with a background in law enforcement, where I developed a keen sense of security, vigilance, and risk evaluation. Currently enhancing my skills through advanced training. I'm eager to apply my unique perspective and expertise to enhance organizational cybersecurity and tackle complex challenges.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+👋 Hi! I'm a cybersecurity professional with a law enforcement background. I am particularly skilled in security, vigilance, and risk assessment. At the moment, I am enriching my skills in IT forensics, ethical hacking, and system administration by undertaking as many practical exercises as possible. 🔍 At the same time, I am firmly into beefing up organizational security and running down the lane of cyber threats. Keep an eye out for my projects to stay connected with my progress, should you like to learn more about me! If you wish, you can also reach out to me for networking with me.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -47,25 +45,26 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+  <a href="https://www.credly.com/badges/a1ae75a1-8592-431b-921f-aef9ccbe7e6c/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/-ISC2%20CC-006400?&style=for-the-badge&logoColor=white" alt="ISC2 CC">
+  </a>
   <a href="https://www.credly.com/badges/a87ec1a6-f31a-4800-adda-5f4761424346" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+">
-  </a>
-  <a href="https://www.credly.com/badges/a42bb75e-3576-4267-8dfa-05a356d05ad6" target="_blank">
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+">
   </a>
   <a href="https://www.credly.com/badges/3ae71d1d-a83b-4e8f-8866-c45584d0c435" target="_blank">
     <img src="https://img.shields.io/badge/-Linux%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Linux+">
   </a>
-  <a href="https://www.credly.com/badges/a1ae75a1-8592-431b-921f-aef9ccbe7e6c/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/-ISC2%20CC-006400?&style=for-the-badge&logoColor=white" alt="ISC2 CC">
-  </a>
-  <a href="https://www.credly.com/badges/c6e41586-ca4b-4536-abdd-21a7169c065b" target="_blank">
-    <img src="https://img.shields.io/badge/-CSIS-ff0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CSIS">
+  <a href="https://www.credly.com/badges/a42bb75e-3576-4267-8dfa-05a356d05ad6" target="_blank">
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+">
   </a>
   <a href="https://www.credly.com/badges/5e251125-706f-45ef-afdf-406089afdd6f" target="_blank">
+    <img src="https://img.shields.io/badge/-CSIS-ff0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CSIS">
+  </a>
+  <a href="https://www.credly.com/badges/c6e41586-ca4b-4536-abdd-21a7169c065b" target="_blank">
     <img src="https://img.shields.io/badge/-CLNP-ff0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CLNP">
   </a>
 </div>
+
 
 
 ## Projects
