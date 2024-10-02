@@ -43,30 +43,54 @@
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
+
 <div>
+  <a href="https://badges.ihk-kompetenz.plus/assertion/1aa70014-a8cc-4f62-8223-9680c322fff0?id=U2FsdGVkX18W/m2rrFP9Og/jr1GVjpJ1ZIvoncQ1vPTfHnPy%20p7568Usp3LHYNYliFtDsAEOtFvYEnqDw95YaQ==" target="_blank">
+    <img src="https://img.shields.io/badge/-Cyber%20Security%20Advisor%20IHK-00008B?&style=for-the-badge&logoColor=white" alt="Cyber Security Advisor IHK">
+  </a>
   <a href="https://www.credly.com/badges/a1ae75a1-8592-431b-921f-aef9ccbe7e6c/linked_in_profile" target="_blank">
     <img src="https://img.shields.io/badge/-ISC2%20CC-006400?&style=for-the-badge&logoColor=white" alt="ISC2 CC">
   </a>
+  <!-- Same color for all CompTIA certifications -->
   <a href="https://www.credly.com/badges/a87ec1a6-f31a-4800-adda-5f4761424346" target="_blank">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+">
+    <img src="https://img.shields.io/badge/-Security%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+">
+  </a>
+  <a href="https://www.credly.com/badges/bf1aaeab-577d-412b-b20c-7b12772a2dfb" target="_blank">
+    <img src="https://img.shields.io/badge/-PenTest%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="PenTest+">
   </a>
   <a href="https://www.credly.com/badges/3ae71d1d-a83b-4e8f-8866-c45584d0c435" target="_blank">
-    <img src="https://img.shields.io/badge/-Linux%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Linux+">
+    <img src="https://img.shields.io/badge/-Linux%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Linux+">
   </a>
   <a href="https://www.credly.com/badges/a42bb75e-3576-4267-8dfa-05a356d05ad6" target="_blank">
-    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+">
+    <img src="https://img.shields.io/badge/-Network%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Network+">
   </a>
+  <a href="https://www.credly.com/badges/4b9c24e9-e677-43d3-84c5-10508466d15a" target="_blank">
+    <img src="https://img.shields.io/badge/-A%2B-FF9900?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="A+">
+  </a>
+  <!-- Remaining certifications -->
   <a href="https://www.credly.com/badges/5e251125-706f-45ef-afdf-406089afdd6f" target="_blank">
     <img src="https://img.shields.io/badge/-CSIS-ff0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CSIS">
   </a>
   <a href="https://www.credly.com/badges/c6e41586-ca4b-4536-abdd-21a7169c065b" target="_blank">
     <img src="https://img.shields.io/badge/-CLNP-ff0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CLNP">
   </a>
+  <a href="https://www.credly.com/badges/e3205b8e-2457-41b0-b058-a09a0e113eca" target="_blank">
+    <img src="https://img.shields.io/badge/-CNVP-ff0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CNVP">
+  </a>
 </div>
 
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+- <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/f9H4CHchzrKQbnbmK_PwC%20Switzerland_tfMiv8JHZqCAtETY9_1723727995180_completion_certificate.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/PricewaterhouseCoopers_Logo.svg" alt="PwC Logo" width="40" height="40">
+  </a> 
+  PwC - Cybersecurity Job Simulation
+
+- <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_Txbzx8Q5z4hdJtGDd_1721292672745_completion_certificate.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="Mastercard Logo" width="40" height="40">
+  </a> 
+  Mastercard - Cybersecurity Job Simulation
+
