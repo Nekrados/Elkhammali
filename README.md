@@ -82,15 +82,15 @@
 
 
 
-## Projects
+##  Job Simulations 
 
 - <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/f9H4CHchzrKQbnbmK_PwC%20Switzerland_tfMiv8JHZqCAtETY9_1723727995180_completion_certificate.pdf" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/PricewaterhouseCoopers_Logo.svg" alt="PwC Logo" width="40" height="40">
   </a> 
-  PwC - Cybersecurity Job Simulation
+  PwC - Cybersecurity 
 
 - <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_Txbzx8Q5z4hdJtGDd_1721292672745_completion_certificate.pdf" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" alt="Mastercard Logo" width="40" height="40">
   </a> 
-  Mastercard - Cybersecurity Job Simulation
+  Mastercard - Cybersecurity 
 
