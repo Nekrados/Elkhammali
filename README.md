@@ -42,8 +42,6 @@
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]
-
 <div>
   <a href="https://badges.ihk-kompetenz.plus/assertion/1aa70014-a8cc-4f62-8223-9680c322fff0?id=U2FsdGVkX18W/m2rrFP9Og/jr1GVjpJ1ZIvoncQ1vPTfHnPy%20p7568Usp3LHYNYliFtDsAEOtFvYEnqDw95YaQ==" target="_blank">
     <img src="https://img.shields.io/badge/-Cyber%20Security%20Advisor%20IHK-00008B?&style=for-the-badge&logoColor=white" alt="Cyber Security Advisor IHK">
