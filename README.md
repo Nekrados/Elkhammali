@@ -3,22 +3,12 @@
 
 
 
-## Objective
+# Objective
 👋 Hi! I'm a cybersecurity professional with a law enforcement background. I am particularly skilled in security, vigilance, and risk assessment. At the moment, I am enriching my skills in IT forensics, ethical hacking, and system administration by undertaking as many practical exercises as possible. 🔍 At the same time, I am firmly into beefing up organizational security and running down the lane of cyber threats. Keep an eye out for my projects to stay connected with my progress, should you like to learn more about me! If you wish, you can also reach out to me for networking with me.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+# Tools
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -26,17 +16,11 @@
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-## Penetration Testing
+### Penetration Testing
 <div> <img src="https://img.shields.io/badge/-Metasploit-008000?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-0000FF?&style=for-the-badge&logo=Nessus&logoColor=white" /> </div>
 
-## Compliance / Security Standards
+### Compliance / Security Standards
 <div> <img src="https://img.shields.io/badge/-ISO_27001-000000?&style=for-the-badge&logo=ISO&logoColor=white" /> </div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
@@ -45,7 +29,13 @@
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+# Certifications
 <div>
   <a href="https://badges.ihk-kompetenz.plus/assertion/1aa70014-a8cc-4f62-8223-9680c322fff0?id=U2FsdGVkX18W/m2rrFP9Og/jr1GVjpJ1ZIvoncQ1vPTfHnPy%20p7568Usp3LHYNYliFtDsAEOtFvYEnqDw95YaQ==" target="_blank">
     <img src="https://img.shields.io/badge/-Cyber%20Security%20Advisor%20IHK-00008B?&style=for-the-badge&logoColor=white" alt="Cyber Security Advisor IHK">
@@ -83,7 +73,7 @@
 
 
 
-##  Job Simulations 
+#  Job Simulations 
 
 - <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/f9H4CHchzrKQbnbmK_PwC%20Switzerland_tfMiv8JHZqCAtETY9_1723727995180_completion_certificate.pdf" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/PricewaterhouseCoopers_Logo.svg" alt="PwC Logo" width="40" height="40">
