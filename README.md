@@ -19,14 +19,18 @@
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
+
+## Penetration Testing
+<div> <img src="https://img.shields.io/badge/-Metasploit-008000?&style=for-the-badge&logo=Metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" /> <img src="https://img.shields.io/badge/-Nessus-0000FF?&style=for-the-badge&logo=Nessus&logoColor=white" /> </div>
+
+## Compliance / Security Standards
+<div> <img src="https://img.shields.io/badge/-ISO_27001-000000?&style=for-the-badge&logo=ISO&logoColor=white" /> </div>
 
 ### Endpoint
 <div>
