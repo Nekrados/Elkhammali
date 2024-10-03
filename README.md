@@ -4,7 +4,6 @@
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 👋 Hi! I'm a cybersecurity professional with a law enforcement background. I am particularly skilled in security, vigilance, and risk assessment. At the moment, I am enriching my skills in IT forensics, ethical hacking, and system administration by undertaking as many practical exercises as possible. 🔍 At the same time, I am firmly into beefing up organizational security and running down the lane of cyber threats. Keep an eye out for my projects to stay connected with my progress, should you like to learn more about me! If you wish, you can also reach out to me for networking with me.
 
 ## Skills
